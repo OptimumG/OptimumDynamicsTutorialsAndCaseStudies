@@ -1,3 +1,5 @@
+[Return to Start](1_Tutorial_1.md)
+
 -|-|-|-
 [Goals](../1_Goals.md)|[Tire Stiffness](../3_Tire_Stiffness.md)|[Tire Friction](../4_Tire_Friction.md)|[Tire Assembly](../5_TireAssy.md)
 [Chassis](../6_Chassis.md)|[Spring](../7_Spring.md)|[Bump Stop](../8_BumpStop.md)|[Coilover](../9_Coilover.md)
@@ -6,3 +8,14 @@
 [Introduction to Setup](../18_Setupintro.md)|[Creating a Setup](../19_Setup.md)|[Validating a Setup](../20_ValidateSetup.md)|[Conclusion](../21_Conclusion.md)
 
 #Tire Friction
+
+The tire friction is required for OptimumDynamics to solve for the actual forces at the tire contact patch.  To achieve this some form of a tire model is required.  The constant friction tire is the simplest type of tire model that OptimumDynamics offers.  Here is how the model can be used.
+
+1) Since we are working left to right, the next button is the __Tire Force__ model. Click on the __New Constant Friction Tire__.
+
+![Tire Force Button]()
+
+Alternatively, we can righ-click on the __Tire Force__ folder in the __Project Tree__.  A list of options will appear.  Click __Create__ to expand these choices further and select __New Constant Friction Tire__.  Note that this method can be used for any object.
+
+2) Choose a name for the Tire Force Model and click __OK__.
+
