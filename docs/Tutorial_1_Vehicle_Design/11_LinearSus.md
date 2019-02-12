@@ -10,4 +10,4 @@
 #Linear Suspension
 
 
-
+Note that the steering ratio is the inverse of the traditional nomenclature for a steering rack ratio
