@@ -1,0 +1,11 @@
+site_name: OptimumDynamics Tutorial and Case Studies
+
+nav:
+    - Home: navigation.md
+    - Tutorials: Tutorials.md
+    - Case Studies: Case_Studies.md
+
+
+theme:
+  name: null
+  custom_dir: docs/_theme/mkdocs_windmill_dark
