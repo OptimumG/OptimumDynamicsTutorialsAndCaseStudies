@@ -8,3 +8,7 @@
 [Introduction to Setup](../18_Setupintro.md)|[Creating a Setup](../19_Setup.md)|[Validating a Setup](../20_ValidateSetup.md)|[Conclusion](../21_Conclusion.md)
 
 #Introduction to Vehicle Setup
+
+Vehicle setup is the way in which OptimumDynamics determines what components are being used in a simulation.  While the initial setup is referenced to the components within the design library, they are NOT quantitatively tied to the original components. Meaning that a change in the setup window will not change the part in the design section and vise-versa.
+
+Any number of vehicle setups can be used to compare vehicle design and competition. The next page goes through how to add components to a setup.

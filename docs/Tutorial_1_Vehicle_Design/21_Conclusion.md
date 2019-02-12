@@ -9,5 +9,44 @@
 
 #Conclusions
 
+At this point, we have now:
 
-#[Next Tutorial: Creating a Basic Simulation]
+1) Created a tire stiffness
+
+2) Created a tire friction
+
+3) Created a tire assembly
+
+4) Created a chassis
+
+5) Created a spring
+
+6) Copied a component
+
+7) Created a bump stop
+
+8) Imported created data
+
+9) Created an anti-roll bar
+
+10) Created a linear-suspension
+
+11) Created an aerodynamics package
+
+12) Created a library of components
+
+13) Created a brakes package
+
+14) Created a differential
+
+15) Created a drivetrain
+
+16) Created a powertrain
+
+17) Imported multi-variable data
+
+18) Created a setup
+
+19) Validated a setup
+
+#[Next Tutorial: Creating a Basic Simulation](../1_Tutorial_2.md)

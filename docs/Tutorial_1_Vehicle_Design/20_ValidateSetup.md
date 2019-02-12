@@ -9,3 +9,20 @@
 
 #Validating a Vehicle Setup
 
+The setup is now ready to be validated.  This takes the assembly created and tests the feasibility of the assembly in full compression, full extension, full steering lock, and the resting point of the vehicle under the influence of gravity only.
+
+![Validate](../img/validate.png)
+
+There is only one step to validate the setup, which is to click the embedded __Validate Setup__ button shown above
+
+![Validate Status](../img/validate_status.png)
+
+When the setup is validating, the above window will show, if everything solved, the setup can be used for simulation.
+
+If there was an error in validation, the error will be listed in the validation window.
+
+An error in front suspension means that the suspension cannot fully travel in extension or compression (not applicable for a linear suspension)
+
+An error in static state means that there is a likely a spring rate that does not yield a feasible state
+
+If there are no more issues, then you are ready to move on to the next tutorial!

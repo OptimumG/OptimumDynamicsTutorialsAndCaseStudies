@@ -9,3 +9,20 @@
 
 #Gearbox
 
+The last component to set parameters for is the gearbox.  This sets the torque ratio that is applied to the rear wheels for a given instance in the simulation.
+
+To set the gear ratios:
+
+![New Gearbox](../img/new_gearbox.png)
+
+1) Click on the __Gearbox__ button and choose the __New Constant Reduction Gearbox__ option.
+
+![Gearbox Name](../img/gearbox_name.png)
+
+2) Set the name for the gearbox and click __OK__
+
+![Gearbox Params](../img/gearbox_param.png)
+
+3) Set the final drive and each of the ratios as follow above.
+
+Everything should now be all set to create the setup. Check now for any missing components

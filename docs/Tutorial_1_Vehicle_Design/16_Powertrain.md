@@ -9,4 +9,28 @@
 
 #Powertrain
 
+The engine map can be set as a function of throttle position and the rotational speed of the engine.  For this tutorial, the engine map has been created and made available for download [here]<a href="../Tutorial_Engine_Map.csv">
 
+To import the engine file into OptimumDynamics, follow the following steps:
+
+![New Engine](../img/new_engine.png)
+
+1) In the __Command Ribbon__, click the __Engines__ button, and select __Import->Excel or .csv__
+
+2) Select the file from its download location
+
+![RPM Data](../img/rpm_data.png)
+
+3) Select the row that corresponds to the data for the rotational speed of the engine.
+
+![Throttle Data](../img/throttle_pos.png)
+
+4) Select the column that corresponds to the data for the throttle position
+
+![Torque Data](../img/torque_data.png)
+
+5) Select the data that corresponds to the data for the torque.  Note that this is going to be both row and column data.
+
+![Engine Map](../img/engine_map.png)
+
+6) Click __OK__ on the bottom left hand of the import window.  Afterwards, the engine map should look comparable to the map shown above.

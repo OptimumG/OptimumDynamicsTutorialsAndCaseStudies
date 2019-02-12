@@ -8,4 +8,20 @@
 [Introduction to Setup](../18_Setupintro.md)|[Creating a Setup](../19_Setup.md)|[Validating a Setup](../20_ValidateSetup.md)|[Conclusion](../21_Conclusion.md)
 
 
-#Salisbury Differential
+#Differential
+
+The differential is used to distribute the torque between the left and right wheels.  The differential we will be using for our tutorial is a limited-slip salisbury differential.  To create the differential:
+
+![New Diff](../img/new_diff.png)
+
+1) Select the __Differential__ button and choose the __New Differential__ option.
+
+![Diff Name](../img/diff_name.png)
+
+2) Set a name for the differential as above, and click __OK__
+
+3) Choose the __Salisbury__ option under __Type__
+
+![Salisbury Param](../img/diff_param.png)
+
+4) Set the parameters for the ramp coefficient, coast coefficient, preload, and viscous coefficient as found above.
