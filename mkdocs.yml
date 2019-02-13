@@ -2,9 +2,52 @@ site_name: OptimumDynamics Tutorial and Case Studies
 
 nav:
     - Home: navigation.md
-    - Tutorials: Tutorials.md
-    - Case Studies: Case_Studies.md
-
+    - Sections:
+        - Tutorials: Tutorials.md
+        - Case Studies: Case_Studies.md
+    - Content:
+        - Case Studies:
+            - Case Study 1: 
+                - Intro: Case_Study_1_Create_a_Database/1_Case_1.md
+            - Case Study 2: 
+                - Intro: Case_Study_2_Track_Study/1_Case_2.md
+            - Case Study 3: 
+                - Intro: Case_Study_3_Validate_Vehicle/1_Case_3.md
+            - Case Study 4: 
+                - Intro: Case_Study_4_Vehicle_Balance/1_Case_4.md
+            - Case Study 5: 
+                - Intro: Case_Study_5_Aero_Balance/1_Case_5.md
+            - Case Study 6: 
+                - Intro: Case_Study_6_Developing_a_Non-Linear_Suspension/1_Case_6.md
+        - Tutorials: 
+            - Tutorial 1:
+                - Intro: Tutorial_1_Vehicle_Design/1_Tutorial_1.md
+                - Create Project: Tutorial_1_Vehicle_Design/2_Create_Project.md
+                - Tire Stiffness: Tutorial_1_Vehicle_Design/3_Tire_Stiffness.md
+                - Tire Friction: Tutorial_1_Vehicle_Design/4_Tire_Friction.md
+                - Tire Assembly: Tutorial_1_Vehicle_Design/5_TireAssy.md
+                - Chassis: Tutorial_1_Vehicle_Design/6_Chassis.md
+                - Spring: Tutorial_1_Vehicle_Design/7_Spring.md
+                - Bump Stop: Tutorial_1_Vehicle_Design/8_BumpStop.md
+                - Coilover: Tutorial_1_Vehicle_Design/9_Coilover.md
+                - Anti-Roll Bar: Tutorial_1_Vehicle_Design/10_ARB.md
+                - Linear Suspension: Tutorial_1_Vehicle_Design/11_LinearSus.md
+                - Aerodynamics: Tutorial_1_Vehicle_Design/12_Aero.md
+                - Brakes: Tutorial_1_Vehicle_Design/13_Brakes.md
+                - Differential: Tutorial_1_Vehicle_Design/14_Diff.md
+                - Drivetrain: Tutorial_1_Vehicle_Design/15_DT.md
+                - Powertrain: Tutorial_1_Vehicle_Design/16_Powertrain.md
+                - Gearbox: Tutorial_1_Vehicle_Design/17_Gearbox.md
+                - Setup Intro: Tutorial_1_Vehicle_Design/18_Setupintro.md
+                - Setup: Tutorial_1_Vehicle_Design/19_Setup.md
+                - Validate Setup: Tutorial_1_Vehicle_Design/20_ValidateSetup.md
+                - Conclusion: Tutorial_1_Vehicle_Design/21_Conclusion.md
+            - Tutorial 2:
+                - Intro: Tutorial_2_Vehicle_Simulation/1_Tutorial_2.md
+            - Tutorial 3:
+                - Intro: Tutorial_3_Setup_Modification/1_Tutorial_3.md
+            - Tutorial 4:
+                - Intro: Tutorial_4_Post_Processing_Simulations/1_Tutorial_4.md
 
 theme:
   name: null
