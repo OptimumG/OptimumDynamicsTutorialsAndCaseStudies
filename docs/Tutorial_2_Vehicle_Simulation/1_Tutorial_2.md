@@ -1,6 +1,8 @@
-#Introduction
+#Tutorial 2: Introduction to Vehicle Simulation
 
-This tutorial will cover information on how to create a vehicle simulation using the vehicle created in the first tutorial. If you do not have the model used in the first tutorial, it can be downloaded [here](../Tutorial Baseline.ODVeh) The vehicle we are using for our simulations is a later model GT car.  You may choose to follow along with the parameters we are putting in, or if you have your own data available, you can use this as a guide to the workflow and conventions of OptimumDynamics. Below in the order in which we will go through the components:
+This tutorial will cover information on how to create a vehicle simulation using the vehicle created in the first tutorial. If you do not have the model used in the first tutorial, it can be downloaded [here](../Tutorial Baseline.ODVeh) The vehicle we are using for our simulations is a later model GT car.  You may choose to follow along with the parameters we are putting in, or if you have your own data available, you can use this as a guide to the workflow and conventions of OptimumDynamics.
+
+Here is the order in which we will go through the components:
 
 
 1) [Importing and Exporting a Setup](2_ImportExport.md)

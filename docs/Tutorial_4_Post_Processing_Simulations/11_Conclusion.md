@@ -1,9 +1,8 @@
 ####[Return to Start](1_Tutorial_3.md)
 
-1) [Importing Results](2_Importing_Results.md)|2) [Creating a Worksheet](3_Create_Worksheet.md)|3) [Create Table](4_CreateTable.md)
--|-|-
-__4) [Create 2D Plot](5_2DChart.md)__|__5) [Create Contour Chart](6_ContourChart.md)__|__6) [Create YMD Plot](7_YMDPlot.md)__
-__7) [Create Track Map](8_TrackMap.md)__|__8) [Reporting Simulation Data](9_SimReport.md)__|__9) [Conclusions](10_Conclusion.md)__
+1) [Importing Results](2_Importing_Results.md)|2) [Creating a Worksheet](3_Create_Worksheet.md)|3) [Create Table](4_CreateTable.md)|4) [Create 2D Plot](5_2DChart.md)|5) [Create Contour Chart](6_ContourChart.md)
+-|-|-|-|-
+__6) [Comparison Plot](7_CompPlot.md)__|__7) [Create YMD Plot](8_YMDPlot.md)__|__8) [Create Track Map](9_TrackMap.md)__|__9) [Reporting Simulation Data](10_SimReport.md)__|__10) [Conclusions](11_Conclusion.md)__
 
 #Conclusions
 
@@ -32,4 +31,4 @@ Congratgulations, you have now finished the tutorials for OptimumDynamics! You s
 If you would like more practice with OptimumDynamics or would like more information on how to get the most out of the software, we encourage you to check out our __[Case Studies](../Case_Studies.md)__. Otherwise, good luck and find that Unfair Advantage!
 
 ---
-#[Previous: Creating a Simulation Report](9_SimReport.md)
+#[Previous: Creating a Simulation Report](10_SimReport.md)

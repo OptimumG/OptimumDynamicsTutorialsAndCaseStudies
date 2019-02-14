@@ -29,6 +29,6 @@ We have now gone through the fundamental aspects of vehicle simulation in Optimu
 9) An understanding of how to create a Yaw Moment Diagram if provided a full tire model
 
 We can now move on to the next tutorial: 
-#[Next Tutorial: Post Processing Simulations](../Tutorial_3_Post_Processing_Simulations/1_Tutorial_3.md)
---------------------------------------------------------
+#[Next Tutorial: Modifying Vehicle Setup](../Tutorial_3_Modifying_Vehicle_Setup/1_Tutorial_4.md)
+---
 #[Previous: Creating a Yaw Moment Diagram](8_YMDSim.md)

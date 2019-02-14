@@ -1,6 +1,8 @@
 #Tutorial 1: Introduction to Vehicle Design
 
-Welcome to your first tutorial in OptimumDynamics Computational Vehicle Dynamics Software!  This tutorial will guide you through the steps required to make your first vehicle in OptimumDynamics.  The vehicle we will be creating is a later model GT car.  You may choose to follow along with the parameters we are putting in, or if you have your own data available, you can use this as a guide to the workflow and conventions of OptimumDynamics.  Note that for this tutorial only linear components are going to be used.  The processes performed here can be carried over, with details of each component found in our help file [here](https://optimumdynamicshelp.readthedocs.io/en/latest/#1_Getting_Started/A_Software_Requirements/)  Below in the order in which we will go through the components:
+Welcome to your first tutorial in OptimumDynamics Computational Vehicle Dynamics Software!  This tutorial will guide you through the steps required to make your first vehicle in OptimumDynamics.  The vehicle we will be creating is a later model GT car.  You may choose to follow along with the parameters we are putting in, or if you have your own data available, you can use this as a guide to the workflow and conventions of OptimumDynamics.  Note that for this tutorial only linear components are going to be used.  The processes performed here can be carried over, with details of each component found in our help file [here](https://optimumdynamicshelp.readthedocs.io/en/latest/#1_Getting_Started/A_Software_Requirements/)  
+
+Below in the order in which we will go through the components:
 
 1) [Creating a Project](2_Create_Project.md)
 
