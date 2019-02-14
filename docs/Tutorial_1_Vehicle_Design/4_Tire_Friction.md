@@ -27,6 +27,6 @@ Alternatively, we can righ-click on the __Tire Force__ folder in the __Project T
 
 3) Set the maximum value of the friction coefficient that the tire can create.  This is used in both the lateral and longitudinal directions.  Note that this assumes no slip capable by the tire.
 
-###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
-###[Previous: Table of Contents](1_Tutorial_1.md)
+###[Next: Tire Assembly](5_TireAssy.md)
+--------------------------------------------------------
+###[Previous: Tire Stiffness](3_Tire_Stiffness.md)

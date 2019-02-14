@@ -37,6 +37,6 @@ __17) [Introduction to Setup](18_Setupintro.md)__|__18) [Creating a Setup](19_Se
 
 6) After all the components are input, the assembly should look as described above
 
-###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
-###[Previous: Table of Contents](1_Tutorial_1.md)
+###[Next: Validate Setup](20_ValidateSetup.md)
+--------------------------------------------------------
+###[Previous: Intro to Setup](18_Setupintro.md)

@@ -37,6 +37,6 @@ Vertical Stiffness|Unloaded Radius|Width
 -|-|-
 283 N/mm|355mm|325mm
 
-###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
-###[Previous: Table of Contents](1_Tutorial_1.md)
+###[Next: Tire Friction](4_Tire_Friction.md)
+--------------------------------------------------------
+###[Previous: Create Projet](2_Create_Project.md)

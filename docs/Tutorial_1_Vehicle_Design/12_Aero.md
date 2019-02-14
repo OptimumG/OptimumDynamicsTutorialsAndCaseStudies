@@ -65,6 +65,6 @@ Front Downforce Coefficient|Rear Downforce Coefficient|Drag Coefficient
 1.0|1.3|1.05
 1.0|0.9|1.00
 
-###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
-###[Previous: Table of Contents](1_Tutorial_1.md)
+###[Next: Brakes](13_Brakes.md)
+--------------------------------------------------------
+###[Previous: Linear Suspension](11_LinearSus.md)

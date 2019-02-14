@@ -25,6 +25,6 @@ To create the brakes:
 
 3) Set the brakes parameters based on the input data presented above.
 
-###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
-###[Previous: Table of Contents](1_Tutorial_1.md)
+###[Next: Differential](14_Diff.md)
+--------------------------------------------------------
+###[Previous: Aerodynamics](12_Aero.md)

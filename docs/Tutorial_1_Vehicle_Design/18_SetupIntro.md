@@ -13,6 +13,6 @@ Vehicle setup is the way in which OptimumDynamics determines what components are
 
 Any number of vehicle setups can be used to compare vehicle design and competition. The next page goes through how to add components to a setup.
 
-###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
-###[Previous: Table of Contents](1_Tutorial_1.md)
+###[Next: Setup](19_Setup.md)
+--------------------------------------------------------
+###[Previous: Gearbox](17_Gearbox.md)

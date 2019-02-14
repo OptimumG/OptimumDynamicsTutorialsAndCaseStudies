@@ -37,6 +37,6 @@ You will notice that the steering ratio does not follow the normal nomenclature.
 
 6) The rear suspension parameters should be the same as above.  Once complete, the suspension can be saved.
 
-###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
-###[Previous: Table of Contents](1_Tutorial_1.md)
+###[Next: Aerodynamics](12_Aero.md)
+--------------------------------------------------------
+###[Previous: Anti-Roll Bar](10_ARB.md)

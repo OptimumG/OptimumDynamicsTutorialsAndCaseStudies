@@ -27,6 +27,6 @@ An error in static state means that there is a likely a spring rate that does no
 
 If there are no more issues, then you are ready to move on to the next tutorial!
 
-###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
-###[Previous: Table of Contents](1_Tutorial_1.md)
+###[Next: Conclusion](21_Conclusion.md)
+--------------------------------------------------------
+###[Previous: Setup](19_Setup.md)

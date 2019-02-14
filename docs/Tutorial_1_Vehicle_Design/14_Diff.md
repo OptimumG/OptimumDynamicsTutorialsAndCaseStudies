@@ -26,6 +26,6 @@ The differential is used to distribute the torque between the left and right whe
 
 4) Set the parameters for the ramp coefficient, coast coefficient, preload, and viscous coefficient as found above.
 
-###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
-###[Previous: Table of Contents](1_Tutorial_1.md)
+###[Next: Drivetrain](15_DT.md)
+--------------------------------------------------------
+###[Previous: Brakes](13_Brakes.md)

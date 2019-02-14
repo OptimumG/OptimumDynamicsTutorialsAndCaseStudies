@@ -43,6 +43,6 @@ Under __Units__, go to __Pressure__, and select Bar
 
 8) Once the first tire is done, complete the same method for the second tire model, using the second tire model and a pressure of 1.65.
 
-###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
-###[Previous: Table of Contents](1_Tutorial_1.md)
+###[Next: Chassis](6_Chassis.md)
+--------------------------------------------------------
+###[Previous: Tire Friction](4_Tire_Friction.md)

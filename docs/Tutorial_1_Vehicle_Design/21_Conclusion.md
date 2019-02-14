@@ -50,3 +50,5 @@ At this point, we have now:
 19) Validated a setup
 
 #[Next Tutorial: Creating a Basic Simulation](../Tutorial_2_Vehicle_Simulation/1_Tutorial_2.md)
+--------------------------------------------------------
+#[Previous: Validate Setup](20_ValidateSetup.md)

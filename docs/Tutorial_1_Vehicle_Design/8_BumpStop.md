@@ -45,6 +45,6 @@ Bump stops are a secondary spring usually intended to prevent the shock piston f
 
 10) The __Document Manager__ will display the data in the left hand editor column and a plot of the data
 
-###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
-###[Previous: Table of Contents](1_Tutorial_1.md)
+###[Next: Coilover](9_Coilover.md)
+--------------------------------------------------------
+###[Previous: Spring](7_Spring.md)

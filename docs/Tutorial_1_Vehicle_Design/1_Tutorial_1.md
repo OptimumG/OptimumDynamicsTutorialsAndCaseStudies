@@ -42,4 +42,6 @@ Welcome to your first tutorial in OptimumDynamics Computational Vehicle Dynamics
 
 20) [Conclusion](21_Conclusion.md)
 
+###[Next: Creating a Project](2_Create_Project.md)
+
 

@@ -29,6 +29,6 @@ Note that once the inputs for free length and stiffness are set, OptimumDynamics
 
 4) Repeat the sequence now for the rear spring, with a stiffness of 50 N/mm
 
-###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
-###[Previous: Table of Contents](1_Tutorial_1.md)
+###[Next: Bump Stop](8_BumpStop.md)
+--------------------------------------------------------
+###[Previous: Chassis](6_Chassis.md)

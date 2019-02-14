@@ -25,6 +25,6 @@ Anti-roll bars are designed to help react the moment created by the inert force 
 
 4) Create a second Anti-Roll bar for the rear using the stiffness 16 N/mm.  Use any of the methods for creating a second component previously described.
 
-###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
-###[Previous: Table of Contents](1_Tutorial_1.md)
+###[Next: Linear Suspension](11_LinearSus.md)
+--------------------------------------------------------
+###[Previous: Coilover](9_Coilover.md)

@@ -9,7 +9,7 @@ __17) [Introduction to Setup](18_Setupintro.md)__|__18) [Creating a Setup](19_Se
 
 #Powertrain
 
-The engine map can be set as a function of throttle position and the rotational speed of the engine.  For this tutorial, the engine map has been created and made available for download [here]<a href="../Tutorial_Engine_Map.csv">
+The engine map can be set as a function of throttle position and the rotational speed of the engine.  For this tutorial, the engine map has been created and made available for download [here](../Tutorial_Engine_Map.csv)
 
 To import the engine file into OptimumDynamics, follow the following steps:
 
@@ -35,6 +35,6 @@ To import the engine file into OptimumDynamics, follow the following steps:
 
 6) Click __OK__ on the bottom left hand of the import window.  Afterwards, the engine map should look comparable to the map shown above.
 
-###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
-###[Previous: Table of Contents](1_Tutorial_1.md)
+###[Next: Gearbox](17_Gearbox.md)
+--------------------------------------------------------
+###[Previous: Drivetrain](15_DT.md)

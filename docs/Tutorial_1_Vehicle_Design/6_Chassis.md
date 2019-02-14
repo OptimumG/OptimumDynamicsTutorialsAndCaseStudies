@@ -27,6 +27,6 @@ The chassis component is used to define the mass distribution of the vehicle.  T
 
 Note where the center of gravity is measured from. There is an option to input the parameter at the vehicle reference ride height, then will convert the height for the actual vehicle ride height.
 
-###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
-###[Previous: Table of Contents](1_Tutorial_1.md)
+###[Next: Springs](7_Spring.md)
+--------------------------------------------------------
+###[Previous: Tire Assembly](1_Tutorial_1.md)

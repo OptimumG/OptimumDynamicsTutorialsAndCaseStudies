@@ -47,6 +47,6 @@ Input a spring gap of 90mm and maximize the bump stop gap.  Note that both param
 
 The coilover assembly can also be observed as a 3D View by selecting the tab along the bottom of the __Document Manager__
 
-###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
-###[Previous: Table of Contents](1_Tutorial_1.md)
+###[Next: Anti-Roll Bar](10_ARB.md)
+--------------------------------------------------------
+###[Previous: Bump Stops](8_BumpStop.md)

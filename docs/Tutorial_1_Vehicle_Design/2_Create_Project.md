@@ -29,5 +29,5 @@ If you understand so far, it is time to create our first component
 
 
 ###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
+--------------------------------------------------------
 ###[Previous: Table of Contents](1_Tutorial_1.md)

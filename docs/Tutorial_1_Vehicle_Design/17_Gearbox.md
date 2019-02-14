@@ -27,6 +27,6 @@ To set the gear ratios:
 
 Everything should now be all set to create the setup. Check now for any missing components
 
-###[Next: Tire Stiffness](3_Tire_Stiffness.md)
-
-###[Previous: Table of Contents](1_Tutorial_1.md)
+###[Next: Introduction to Setup](18_Setupintro.md)
+--------------------------------------------------------
+###[Previous: Powertrain](16_Powertrain.md)
