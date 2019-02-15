@@ -9,7 +9,7 @@ __17) [Introduction to Setup](18_Setupintro.md)__|__18) [Creating a Setup](19_Se
 
 #Brakes
 
-The braking system of the vehicle can be defined simply by the location of the brakes and the distribution of braking force front to rear.  The braking distribution is assumed to be constant in this model and does not depend on the hydraulics of the vehicle.  The option is also available to input a bespoke value for brakes, though we will not be doing that for this model.  Details on how to calculate the specific brake torque for a vehicle can be found [here](https://optimumdynamicshelp.readthedocs.io/en/latest/#2_Detailed_Guide/B_Understanding_Vehicle_Design/#simple-brakes)
+The braking system of the vehicle can be defined simply by the location of the brakes and the distribution of braking force front to rear.  The braking distribution is assumed to be constant in this model and does not depend on the hydraulics of the vehicle.  The option is also available to input a bespoke value for brakes, though we will not be doing that for this model.  Details on how to calculate the specific brake torque for a vehicle can be found __[here](https://optimumdynamicshelp.readthedocs.io/en/latest/#2_Detailed_Guide/B_Understanding_Vehicle_Design/#simple-brakes)__
 
 To create the brakes:
 

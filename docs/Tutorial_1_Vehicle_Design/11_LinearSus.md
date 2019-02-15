@@ -9,7 +9,7 @@ __17) [Introduction to Setup](18_Setupintro.md)__|__18) [Creating a Setup](19_Se
 
 #Linear Suspension
 
-The linear suspension defines a layout and motion of the vehicle when the hard points and actuation are not fully known. The following steps are completed to create a linear suspension.  Details on creating a non-linear suspension can be found in the help file [here](https://optimumdynamicshelp.readthedocs.io/en/latest/#2_Detailed_Guide/B_Understanding_Vehicle_Design/#non-linear-suspension) and in the case study [here](../Case_Study_6_Developing_a_Non-Linear_Suspension/1_Case_6.md)
+The linear suspension defines a layout and motion of the vehicle when the hard points and actuation are not fully known. The following steps are completed to create a linear suspension.  Details on creating a non-linear suspension can be found in the help file __[here](https://optimumdynamicshelp.readthedocs.io/en/latest/#2_Detailed_Guide/B_Understanding_Vehicle_Design/#non-linear-suspension)__ and in the case study __[here](../Case_Study_6_Developing_a_Non-Linear_Suspension/1_Case_6.md)__
 
 To create the Linear Suspension:
 

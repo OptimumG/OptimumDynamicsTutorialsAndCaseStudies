@@ -10,7 +10,7 @@
 
 Inputs in the multiple state simulation can also be input freehand onto the plot itself. This section will explain how to turn those rough inputs into a more realistic simulation input.  Note that the simulation inputs will not perfectly match the inputs shown here.
 
-Here are the steps to create this simulation
+Here are the steps to create this simulation:
 
 ![multi Accel](../img/multi_accel.png)
 
@@ -49,6 +49,6 @@ The plot will now look like this:
 
 8) The simulation can now be run using either the __Quick Run__ methods or the __Simulation__ function method.
 
-#[Next: Making a Track Replay Simulation](6_TrackReplay.md)
+###[Next: Making a Track Replay Simulation](6_TrackReplay.md)
 --------------------------------------------------------
-#[Previous: Creating a Smooth Multiple Step Simulation](4_MultiStepSim.md)
+###[Previous: Creating a Smooth Multiple Step Simulation](4_MultiStepSim.md)

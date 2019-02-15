@@ -11,7 +11,7 @@ __17) [Introduction to Setup](18_Setupintro.md)__|__18) [Creating a Setup](19_Se
 
 Bump stops are a secondary spring usually intended to prevent the shock piston from bottoming out, causing damage to the vehicle.  They can also be used to control the ride height of a vehicle to much advantage.  To demonstrate how to create import data for a component, we are going to create a non-linear bump stop.
 
-1) To start, open __Microsoft Excel (R)__ to a new worksheet
+1) To start, open __Microsoft Excel__ to a new worksheet
 
 ![Bump Stop Data](../img/bump_stop_data.PNG)
 

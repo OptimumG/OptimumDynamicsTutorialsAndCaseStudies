@@ -8,9 +8,9 @@
 
 #Importing and Exporting Vehicle Setups
 
-Right now there should be the baseline for our GT car in the setup folder in the __Project Tree__.  If that setup is not in the folder, it can be imported. We are also going to import a secondary setup to the system. The second setup can be downloaded [here](../Tutorial Import Setup.ODVeh) The vehicle setup can be imported into OptimumDynamics using the following method. This can be very beneficial if working between multiple workspaces or working within a team to share and compare data.
+Right now there should be the baseline for our GT car in the setup folder in the __Project Tree__.  If that setup is not in the folder, it can be imported. We are also going to import a secondary setup to the system. The second setup can be downloaded __[here](../Tutorial Import Setup.ODVeh)__ The vehicle setup can be imported into OptimumDynamics using the following method. This can be very beneficial if working between multiple workspaces or working within a team to share and compare data.
 
-This project should be a continuation of the one created in tutorial 1.  If you are not continuing the first tutorial, create a new project.  Details on how to do so can be found [here](../Tutorial_1_Vehicle_Design/2_Create_Project.md)
+This project should be a continuation of the one created in tutorial 1.  If you are not continuing the first tutorial, create a new project.  Details on how to do so can be found __[here](../Tutorial_1_Vehicle_Design/2_Create_Project.md)__
 
 Here is the process to import the setup:
 
@@ -41,6 +41,6 @@ Exporting a setup is done in the same fashion as importing. This is an expeciall
 
 3) Once the file is saved, the __Export Completed__ will show up in the bottom right hand corner of the window
 
-#[Next: Creating a Single Force Simulation](3_SingleStepSim.md)
+###[Next: Creating a Single Force Simulation](3_SingleStepSim.md)
 --------------------------------------------------------
-#[Previous: Introduction](1_Tutorial_2.md)
+###[Previous: Introduction](1_Tutorial_2.md)

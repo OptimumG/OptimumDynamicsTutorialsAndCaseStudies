@@ -7,7 +7,7 @@
 
 #Creating a Track Replay Data Simulation
 
-A track replay uses logged data to create the inputs for the acceleration, velocity, and steering data of a vehicle simulation. We have provided a data file that can be used for this [here](../OPTIMUMDYNAMICS_NURBURGRING_TUTORIAL.csv)
+A track replay uses logged data to create the inputs for the acceleration, velocity, and steering data of a vehicle simulation. We have provided a data file that can be used for this __[here](../OPTIMUMDYNAMICS_NURBURGRING_TUTORIAL.csv)__
 
 First we are going to need to import the data.  Here are the steps to do so:
 
@@ -73,6 +73,6 @@ Since this is a closed course, we can select the ![Close Track](../img/close_tra
 
 17) The last thing to do is to run the simulation. We are going to use the __Quick Run__ tool and the imported setup
 
-#[Next: Exporting Results Files](7_ExportResults.md)
+###[Next: Exporting Results Files](7_ExportResults.md)
 --------------------------------------------------------
-#[Previous: Creating a Freehand Multiple Step Simulation](5_MultiStepRough.md)
+###[Previous: Creating a Freehand Multiple Step Simulation](5_MultiStepRough.md)

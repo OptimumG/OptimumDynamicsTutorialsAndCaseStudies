@@ -25,6 +25,6 @@ While the model we created cannot be used for this simulation, here are the step
 
 4) Run the simulation using the __Quick Run__ tool.
 
-#[Next: Conclusion](9_Conclusions.md)
+###[Next: Conclusion](9_Conclusions.md)
 --------------------------------------------------------
-#[Previous: Exporting Results Files](7_ExportResults.md)
+###[Previous: Exporting Results Files](7_ExportResults.md)

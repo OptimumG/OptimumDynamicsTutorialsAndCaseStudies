@@ -1,25 +1,25 @@
 #Tutorial 2: Introduction to Vehicle Simulation
 
-This tutorial will cover information on how to create a vehicle simulation using the vehicle created in the first tutorial. If you do not have the model used in the first tutorial, it can be downloaded [here](../Tutorial Baseline.ODVeh) The vehicle we are using for our simulations is a later model GT car.  You may choose to follow along with the parameters we are putting in, or if you have your own data available, you can use this as a guide to the workflow and conventions of OptimumDynamics.
+This tutorial will cover information on how to create a vehicle simulation using the vehicle created in the first tutorial. If you do not have the model used in the first tutorial, it can be downloaded __[here](../Tutorial Baseline.ODVeh)__. The vehicle we are using for our simulations is a later model GT car.  You may choose to follow along with the parameters we are putting in, or if you have your own data available, you can use this as a guide to the workflow and conventions of OptimumDynamics.
 
 Here is the order in which we will go through the components:
 
 
-1) [Importing and Exporting a Setup](2_ImportExport.md)
+__1) [Importing and Exporting a Setup](2_ImportExport.md)__
 
-2) [Creating a Single Force Simulation](3_SingleStepSim.md)
+__2) [Creating a Single Force Simulation](3_SingleStepSim.md)__
 
-3) [Creating a Smooth Multiple Step Simulation](4_MultiStepSim.md)
+__3) [Creating a Smooth Multiple Step Simulation](4_MultiStepSim.md)__
 
-4) [Creating a Freehand Multiple Step Simulation](5_MultiStepRough.md)
+__4) [Creating a Freehand Multiple Step Simulation](5_MultiStepRough.md)__
 
-5) [Making a Track Replay Simulation](6_TrackReplay.md)
+__5) [Making a Track Replay Simulation](6_TrackReplay.md)__
 
-6) [Exporting Results Files](7_ExportResults.md)
+__6) [Exporting Results Files](7_ExportResults.md)__
 
-7) [Creating a Yaw Moment Diagram](8_YMDSim.md)
+__7) [Creating a Yaw Moment Diagram](8_YMDSim.md)__
 
-8) [Conclusion](9_Conclusions.md)
+__8) [Conclusion](9_Conclusions.md)__
 
-#[Next: Importing and Exporting a Setup](2_ImportExport.md)
+###[Next: Importing and Exporting a Setup](2_ImportExport.md)
 

@@ -8,7 +8,7 @@
 
 #Creating a Multiple Step Smooth Simulation
 
-A multiple step simulation uses a sequence of inputs to create the reactions of the vehicle.  We are going to use an acceleration simulation to create our inputs, creating a continually increasing radius simulation.  Details of how to design the inputs are discussed in the case study [here](../Case_Study_8_Creating_Course_Inputs/1_Case_8.md)
+A multiple step simulation uses a sequence of inputs to create the reactions of the vehicle.  We are going to use an acceleration simulation to create our inputs, creating a continually increasing radius simulation.  Details of how to design the inputs are discussed in the case study __[here](../Case_Study_8_Creating_Course_Inputs/1_Case_8.md)__
 
 Here are the steps to input and create the simulation:
 
@@ -74,6 +74,6 @@ Unlike the single state simulation, we are going to turn this simulation into a 
 
 5) Name the simulation run that is being completed. This name will be carried over with the results file. Click __OK__ and the simulation will run.
 
-#[Next: Creating a Freehand Multiple Step Simulation](5_MultiStepRough.md)
+###[Next: Creating a Freehand Multiple Step Simulation](5_MultiStepRough.md)
 --------------------------------------------------------
-#[Previous: Creating a Single Force Simulation](3_SingleStepSim.md)
+###[Previous: Creating a Single Force Simulation](3_SingleStepSim.md)

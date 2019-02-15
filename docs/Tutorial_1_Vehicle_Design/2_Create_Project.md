@@ -9,7 +9,7 @@ __17) [Introduction to Setup](18_Setupintro.md)__|__18) [Creating a Setup](19_Se
 
 #Create a Project
 
-We will start with the first step which is to create the project.  In order to start a project, your OptimumDynamics license must be input.  If it is not, details of how to do so can be found [here](https://optimumdynamicshelp.readthedocs.io/en/latest/#1_Getting_Started/C_Licensing/)
+We will start with the first step which is to create the project.  In order to start a project, your OptimumDynamics license must be input.  If it is not, details of how to do so can be found __[here](https://optimumdynamicshelp.readthedocs.io/en/latest/#1_Getting_Started/C_Licensing/)__
 
 When you first start OptimumDynamics you will see the project Backstage.
 

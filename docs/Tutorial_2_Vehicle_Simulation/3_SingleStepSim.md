@@ -20,7 +20,7 @@ Here is the process to create the simulation:
 
 2) Provide a name for the force that is being created.
 
-![Gravity](include_gravity.png)
+![Gravity](../img/include_gravity.png)
 
 3) By default, gravity is included in the simulation.  We are not using any aditional vertial loading, so we are going to leave that option on.
 
@@ -44,6 +44,6 @@ Here is the process to create the simulation:
 
 9) Once the simulation is complete, the results file will appear in the __Document Manager__. Output results can be checked in the left hand column of the __Document Manager__ We will come back to this file in a little bit
 
-#[Next: Creating a Smooth Multiple Step Simulation](4_MultiStepSim.md)
+###[Next: Creating a Smooth Multiple Step Simulation](4_MultiStepSim.md)
 --------------------------------------------------------
-#[Previous: Importing and Exporting a Setup](2_ImportExport.md)
+###[Previous: Importing and Exporting a Setup](2_ImportExport.md)
