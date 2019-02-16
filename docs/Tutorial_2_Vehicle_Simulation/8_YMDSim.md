@@ -7,13 +7,19 @@
 
 #Creating a Yaw Moment Diagram Simulation
 
-The __Yaw Moment Diagram__ is a tool that can be used to understand the limit nature of the vehicle. We can create the full Yaw Moment Diagram using the __Constant Step__ tool and set the parameters to determine the size. The Yaw Moment Diagram does require a full tire model to use.
+*This step is optional. If you are not using and/or not planning to use a full tire model in your simulations, you can skip ahead*
 
-While the model we created cannot be used for this simulation, here are the steps to do so:
+The __Yaw Moment Diagram__ is a tool that can be used to understand the limit nature of the vehicle. We can create the full Yaw Moment Diagram using the __Constant Step__ tool and set the parameters to determine the size. The Yaw Moment Diagram does require a full tire model to use. A generic tire that can be used with the model can be downloaded __[here](../Tire Model Baseline.ODVeh)__.
+
+__Full Disclosure__: The tire model within this setup does not reflect any actual tire. It was purely created to show the features of the software. Please determine your actual tire model if you are using a full vehicle model
+
+Here are the steps to use the Yaw Moment Diagram:
+
+1) __Import__ the tire model vehicle setup from the above link.
 
 ![New YMD](../img/new_YMD.png)
 
-1) Select the __Constant Step YMD__ option under the __YMD__ button
+2) Select the __Constant Step YMD__ option under the __YMD__ button
 
 ![YMD Name](../img/YMD_name.png)
 

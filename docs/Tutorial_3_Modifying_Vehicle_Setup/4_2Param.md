@@ -20,7 +20,17 @@ To create the study:
 
 ![Two Param Params](../img/two-param_param.png)
 
-3) Input the vehicle setup (using the vehicle baseline setup) and the acceleration inputs for the vehicle in the left hand column of the __Document Manager__
+3) Input the vehicle setup (using the vehicle baseline setup) and in the left hand column of the __Document Manager__
+
+4) Create a __Single State Acceleration__ input. We are going to use this to drive our two parameter study. The inputs for the simulation are listed below
+
+Input|Value
+-|-
+Lateral Acceleration|14.714 m/s^2
+Longitudinal Acceleration|0 m/s^2
+Steering Wheel Angle|60 Deg
+Velocity| 125 km/h
+Vertical Acceleration| 0 m/s^2
 
 4) Set the first parameter to be __Front Aerodynamic Downforce__. The minimal value will be __1.0__, the maximum wil be __1.6__, and the number of steps will be __2__ to match the configuration options of the design
 

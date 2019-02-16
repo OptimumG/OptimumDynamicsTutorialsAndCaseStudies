@@ -47,7 +47,7 @@ The plot will now look like this:
 
 ![Cubic Spline](../img/cubic_spline.png)
 
-8) The simulation can now be run using either the __Quick Run__ methods or the __Simulation__ function method.
+8) The simulation can now be run using either the __Quick Run__ methods or the __Simulation__ function method. Use the __Tutorial Import Setup__ for this simulation.
 
 ###[Next: Making a Track Replay Simulation](6_TrackReplay.md)
 --------------------------------------------------------

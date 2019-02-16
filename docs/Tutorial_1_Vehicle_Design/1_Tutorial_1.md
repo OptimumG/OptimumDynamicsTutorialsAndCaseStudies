@@ -4,45 +4,45 @@ Welcome to your first tutorial in OptimumDynamics Computational Vehicle Dynamics
 
 Below in the order in which we will go through the components:
 
-1) [Creating a Project](2_Create_Project.md)
+__1) [Creating a Project](2_Create_Project.md)__
 
-2) [Tire Stiffness](3_Tire_Stiffness.md)
+__2) [Tire Stiffness](3_Tire_Stiffness.md)__
 
-3) [Tire Friction](4_Tire_Friction.md)
+__3) [Tire Friction](4_Tire_Friction.md)__
 
-4) [Tire Assembly](5_TireAssy.md)
+__4) [Tire Assembly](5_TireAssy.md)__
 
-5) [Chassis](6_Chassis.md)
+__5) [Chassis](6_Chassis.md)__
 
-6) [Spring](7_Spring.md)
+__6) [Spring](7_Spring.md)__
 
-7) [Bump Stop](8_BumpStop.md)
+__7) [Bump Stop](8_BumpStop.md)__
 
-8) [Coilover](9_Coilover.md)
+__8) [Coilover](9_Coilover.md)__
 
-9) [Anti-Roll Bar](10_ARB.md)
+__9) [Anti-Roll Bar](10_ARB.md)__
 
-10) [Linear Suspension](11_LinearSus.md)
+__10) [Linear Suspension](11_LinearSus.md)__
 
-11) [Aerodynamics](12_Aero.md)
+__11) [Aerodynamics](12_Aero.md)__
 
-12) [Brakes](13_Brakes.md)
+__12) [Brakes](13_Brakes.md)__
 
-13) [Differential](14_Diff.md)
+__13) [Differential](14_Diff.md)__
 
-14) [Drivetrain](15_DT.md)
+__14) [Drivetrain](15_DT.md)__
 
-15) [Powertrain](16_Powertrain.md)
+__15) [Powertrain](16_Powertrain.md)__
 
-16) [Gearbox](17_Gearbox.md)
+__16) [Gearbox](17_Gearbox.md)__
 
-17) [Introduction to Setup](18_Setupintro.md)
+__17) [Introduction to Setup](18_Setupintro.md)__
 
-18) [Creating a Setup](19_Setup.md)
+__18) [Creating a Setup](19_Setup.md)__
 
-19) [Validating a Setup](20_ValidateSetup.md)
+__19) [Validating a Setup](20_ValidateSetup.md)__
 
-20) [Conclusion](21_Conclusion.md)
+__20) [Conclusion](21_Conclusion.md)__
 
 ###[Next: Creating a Project](2_Create_Project.md)
 

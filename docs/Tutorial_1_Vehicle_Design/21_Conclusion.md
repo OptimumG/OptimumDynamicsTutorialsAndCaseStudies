@@ -9,6 +9,8 @@ __17) [Introduction to Setup](18_Setupintro.md)__|__18) [Creating a Setup](19_Se
 
 #Conclusions
 
+We have now completed the first tutorial in OptimumDynamics. We have shown how to use the design tools to create a vehicle and input the compnents into a vehicle setup that can be used for simulation.
+
 At this point, we have now:
 
 1) Created a tire stiffness
@@ -49,6 +51,8 @@ At this point, we have now:
 
 19) Validated a setup
 
-#[Next Tutorial: Creating a Basic Simulation](../Tutorial_2_Vehicle_Simulation/1_Tutorial_2.md)
+The next step is to now simulate different conditions the vehicle will encounter. We go over how to simulate a vehicle in the next tutorial
+
+###[Next Tutorial: Creating a Basic Simulation](../Tutorial_2_Vehicle_Simulation/1_Tutorial_2.md)
 --------------------------------------------------------
-#[Previous: Validate Setup](20_ValidateSetup.md)
+###[Previous: Validate Setup](20_ValidateSetup.md)

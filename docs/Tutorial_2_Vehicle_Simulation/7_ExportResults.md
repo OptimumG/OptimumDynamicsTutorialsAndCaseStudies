@@ -15,7 +15,9 @@ To export the results file as a CSV format:
 
 1) Right click on the data file that is desired to be exported, go to __Export->CSV File__
 
-2) The file location can then be specified and the data used in any other file format. The process can be used for any ther file format
+2) The file location can then be specified and the data used in any other file format. The process can be used for any other file format.
+
+__Note:__ OptimumDynamics can only import an OptimumDynamics Native File
 
 ###[Next: Creating a Yaw Moment Diagram](8_YMDSim.md)
 --------------------------------------------------------

@@ -10,9 +10,9 @@ At this point, there are a significant number of simulation results that have be
 
 Here is the process we are going to take:
 
-1) Check that you have all of the simulations from this tutorial and the the previous tutorial (if using the same file). There should be 15 simulation results created in the __Results__ folder if every simulation has been run.
+1) Check that you have all of the simulations from this tutorial and the the previous tutorial (if using the same file). There should be 15 simulation results (16 if you performed the optional YMD simulation) created in the __Results__ folder if every simulation has been run.
 
-![Results folder](../img/results_folder.png)
+![Results folder](../img/results_folder.PNG)
 
 2) Create __three__ folders for the __Results__ library. __Right Click__ on the __Results__ library and select __Create->New Folder__.
 
@@ -39,6 +39,6 @@ Here is how we are going to use the colors:
 2) __Gradient__ each of the colors for the simulations. Once we have everything organized, we can __save__ the project
 
 
-#[Next: Exporting and Saving Setup Changes](7_ExportChange.md)
+###[Next: Exporting and Saving Setup Changes](7_ExportChange.md)
 ---
-#[Previous: Creating a Batch Simulation](5_BatchSim.md)
+###[Previous: Creating a Batch Simulation](5_BatchSim.md)
