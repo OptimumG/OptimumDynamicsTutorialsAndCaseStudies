@@ -3,11 +3,11 @@
 1) [Importing Results](2_Importing_Results.md)|2) [Creating a Worksheet](3_Create_Worksheet.md)|3) [Create Table](4_CreateTable.md)|4) [Create 2D Plot](5_2DChart.md)
 -|-|-|-
 __5) [Create Contour Chart](6_ContourChart.md)__|__6) [Comparison Plot](7_CompPlot.md)__|__7) [Create YMD Plot](8_YMDPlot.md)__|__8) [Create Track Map](9_TrackMap.md)__
-__9) [Reporting Simulation Data](10_SimReport.md)__|__10) [Math Channels](11_MathChan.md)__|__11) [Conclusions](12_Conclusion.md)__
+__9) [Reporting Simulation Data](10_SimReport.md)__|__10) [Conclusions](11_Conclusion.md)__
 
 #Conclusions
 
-Congratgulations, you have now finished the tutorials for OptimumDynamics! You should now have everything you need to create your own vehicle, start creating new simulations, analyze vehicle changes and report the outputs from the simulations. In this last section, we learned:
+__Congratgulations__, you have now finished the tutorials for OptimumDynamics! You should now have everything you need to create your own vehicle, start creating new simulations, analyze vehicle changes and report the outputs from the simulations. In this last section, we learned:
 
 1) How to Import Vehicle Simulation Results
 

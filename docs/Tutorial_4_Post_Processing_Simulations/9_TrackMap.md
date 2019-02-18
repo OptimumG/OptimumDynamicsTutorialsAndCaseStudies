@@ -3,7 +3,7 @@
 1) [Importing Results](2_Importing_Results.md)|2) [Creating a Worksheet](3_Create_Worksheet.md)|3) [Create Table](4_CreateTable.md)|4) [Create 2D Plot](5_2DChart.md)
 -|-|-|-
 __5) [Create Contour Chart](6_ContourChart.md)__|__6) [Comparison Plot](7_CompPlot.md)__|__7) [Create YMD Plot](8_YMDPlot.md)__|__8) [Create Track Map](9_TrackMap.md)__
-__9) [Reporting Simulation Data](10_SimReport.md)__|__10) [Math Channels](11_MathChan.md)__|__11) [Conclusions](12_Conclusion.md)__
+__9) [Reporting Simulation Data](10_SimReport.md)__|__10) [Conclusions](11_Conclusion.md)__
 
 #Create a Track Map
 
@@ -31,7 +31,17 @@ To create the track playback in a worksheet:
 
 6) __Right click__ on the chart area. Go to __Data->Line Spacing__
 
-7) Increase the line spacing to 10.
+![Map Space](../img/map_space.png)
+
+7) Increase the line spacing to 10. The change should look like the above plot.
+
+![Cursor](../img/cursor.png)
+
+8) We can also turn on the __Cursor__ to read data on the plot at various points. __Right Click__ on the white space of the plot and select __Tools -> Cursor__.
+
+![Cursor Output](../img/cursor_output.png)
+
+9) __Hover__ on the plot now. Notice that the ouput data for each point will come up along with the simulation it came from.
 
 ###[Next: Reporting Simulation Outputs](10_SimReport.md)
 ---
