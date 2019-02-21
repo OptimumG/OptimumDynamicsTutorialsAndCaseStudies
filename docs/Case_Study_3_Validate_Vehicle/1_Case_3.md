@@ -20,10 +20,10 @@ Once the data reached a point in which the acceleration plots were nearly equiva
 
 ![]()
 
-Based on our results, our simulated car had an overly ambitious aerodynamics package that caused the vehicle show an aggressive pitch angle in simulations that did not exist in the actual vehicle lap. To fix the solution, we will start by dropping the downforce coefficients
+Based on our results, our simulated car had an overly ambitious aerodynamics package that caused the vehicle show an aggressive pitch angle in simulations that did not exist in the actual vehicle lap. To fix the solution, we will start by dropping the downforce coefficients, and then increasing the mechanical grip of the vehicle
 
 ![]()
 
-The results for the high speed pitch angle are now much more in line with the actual vehicle results, with the areodynamic effect no longer causing the aggressive parabolic shape initially seen.
+The results for the high speed pitch angle are now much more in line with the actual vehicle results, with the areodynamic effect no longer requiring the aggressive spring rate to 
 
 ###[Next Case Study: Determining Vehicle Balance](../Case_Study_4_Vehicle_Balance/1_Case_4.md)
